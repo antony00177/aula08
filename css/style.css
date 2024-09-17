@@ -1,0 +1,35 @@
+.primeiro {
+
+    background-color: crimson;
+}
+
+.segundo {
+
+    background-color: orangered;
+}
+
+.terceiro {
+
+    background-color: yellow;
+}
+
+.exemplos {
+
+    list-style-type: none;
+}
+
+.bloco {
+
+    width: 300px;
+    height: 120px;
+    /*
+    dysplay: inline
+    */
+    display: inline-block;
+}
+
+.bloco:hover {
+
+    background-color: dodgerblue;
+    color: blue;
+}
